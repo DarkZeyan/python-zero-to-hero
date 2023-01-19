@@ -1,0 +1,4 @@
+#This command helps to create one file with its name and respective extension
+"Hello this is a text file"
+This is the 2nd line
+this is the third line
